@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">TomatoAlarmClock</string>
+	<string name="work">工作</string>
+	<string name="study">學習</string>
+	<string name="think">思考</string>
+	<string name="write">寫作</string>
+	<string name="sport">運動</string>
+	<string name="read">閱讀</string>
+	<string name="start">開始</string>
+	<string name="stop">停止</string>
+	<string name="reset">重置</string>
+	<string name="time">時間</string>
+	<string name="timer_on_time">計時器時間到了 ！</string>
+	<string name="roger">知道了</string>
+	<string name="play_fail">播放失敗</string>
+	<string name="slogan">靜下心來，保持專注</string>
+	<string name="menu_settings">設置</string>
+	<string name="menu_about">關於</string>
+
+</resources>
