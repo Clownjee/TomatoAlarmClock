@@ -36,6 +36,10 @@
             android:name=".module.main.MainActivity"
             android:launchMode="singleTask"
             android:screenOrientation="portrait"/>
+        <activity
+            android:name=".module.option.OptionActivity"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"/>
 
         <service
             android:name=".service.CountDownService"/>
