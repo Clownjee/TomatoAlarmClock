@@ -1,4 +1,4 @@
-package com.clownjee.tomatoalarmclock;
+package com.ghizzoniandrea.tomatoalarmclock;
 
 import org.junit.Test;
 

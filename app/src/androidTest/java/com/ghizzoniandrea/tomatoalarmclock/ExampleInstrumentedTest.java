@@ -1,4 +1,4 @@
-package com.clownjee.tomatoalarmclock;
+package com.ghizzoniandrea.tomatoalarmclock;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
